@@ -1,0 +1,24 @@
+{
+  "name": "lotrapp",
+  "version": "1.0.0",
+  "description": "An app for learning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iaverypadberg/LotrApp.git"
+  },
+  "author": "Isaac Padberg]",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iaverypadberg/LotrApp/issues"
+  },
+  "homepage": "https://github.com/iaverypadberg/LotrApp#readme",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "mongoose": "^5.13.7"
+  }
+}
